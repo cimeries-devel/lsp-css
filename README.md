@@ -1,1 +1,1 @@
-# LSP CSS, SCSS and LESS for Kate text editor
+# Kate CSS, SCSS and LESS Language Server
